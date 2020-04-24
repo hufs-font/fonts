@@ -1,0 +1,25 @@
+/* font */
+@font-face {
+	 font-family:'hufs_B';
+	 src:url('./hufs_B.eot');
+	 src: url('./hufs_B.eot?#iefix') format('embedded-opentype'),
+	 url('./hufs_B.woff') format('woff'), 
+	 url('./hufs_B.ttf') format('truetype');
+	 font-style:normal; font-weight:normal;
+ }
+ @font-face {
+	 font-family:'hufs_L';
+	 src:url('./hufs_L.eot');
+	 src: url('./hufs_L?#iefix') format('embedded-opentype'),
+	 url('./hufs_L.woff') format('woff'), 
+	 url('./hufs_L.ttf') format('truetype');
+	 font-style:normal; font-weight:normal;
+ }
+ @font-face {
+	 font-family:'hufs_M';
+	 src:url('./hufs_M.eot');
+	 src: url('./hufs_M.eot?#iefix') format('embedded-opentype'),
+	 url('./hufs_M.woff') format('woff'), 
+	 url('./hufs_M.ttf') format('truetype');
+	 font-style:normal; font-weight:normal;
+ }
